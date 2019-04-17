@@ -3,7 +3,7 @@
 > Toast plugin base on vue
 
 ## **repository**
-[https://github.com/Chowqz/zqz-toast] (https://github.com/Chowqz/zqz-toast)
+https://github.com/Chowqz/zqz-toast
 
 ###  **Install**
 ``` bash
